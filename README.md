@@ -8,3 +8,5 @@ The original files contain a number of columns, structured (x,y,t1,t2,t3....tn) 
 The 5 new files should be structured y, t, v1, v2, v3....vn, where t is time and v1, v2, v3....vn are the different files. n in this case is the number of files in a group.
 
 The files in each group have the same number of columns (and time intervals), but the groups do not neccessarily have the same number of columns as each other. 
+
+Languages: Bash, AWK
